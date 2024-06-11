@@ -6,16 +6,7 @@
 
 I wanted to test back in the day for my certifications and also have some knowledge of Terraform,
 decided to start this repository to include many of my findings and learnings over AWS and Terraform.
-## About .gitignore
-Included the basics and example credentials files, modify it if is needed
-```
-*.tfstate
-*.tfstate.*
-*.tfvars
-.terraform/
-.terraform.lock.hcl
-crash.log
-```
+
 ## Setting up the environment
 Clone the repo
 ```
